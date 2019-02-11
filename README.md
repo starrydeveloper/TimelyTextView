@@ -1,7 +1,7 @@
-TimelyTextView
-==============
+TimelyTextView For Myanmar
+==========================
 
-Animated TextView like Timely app
+Animated TextView like Timely app for Myanmar
 
 
 v1 : 
